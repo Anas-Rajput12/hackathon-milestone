@@ -16,10 +16,11 @@ body {
 }
 
 #section1 {
-    background-color: #0e4086;
-    width: 35%;
-    color: white;
+    background-color: #0e4086; /* Example background color */
+    color: white; /* Text color */
+    width: 35%; /* Set width to 35% */
     min-height: 100vh; /* Fill viewport height */
+    /* padding: 20px; Padding for spacing */
 }
 
 .profile-picture {
